@@ -1,0 +1,2 @@
+:root{--yellow:#ffc107}body{background-color:#000}.card{background-color:var(--yellow);border:1px solid #000;border-radius:10%;height:120px;justify-content:center;padding:1rem;width:120px}.card,.grid{align-items:center;display:flex}.grid{flex-wrap:wrap;height:500px;justify-content:space-between;width:500px}.turn-highlight{color:#fff}
+/*# sourceMappingURL=main.828d6564.css.map*/
